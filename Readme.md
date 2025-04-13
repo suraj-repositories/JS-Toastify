@@ -32,7 +32,7 @@ For this case only i will suggest you to put them inside header tag, so the toas
 
 ## Currently supported functions 
 
-```js
+```html
 <script>
     Toastify.error("This is an error message!");
     Toastify.success("This is an success message!");
