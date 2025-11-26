@@ -1,7 +1,7 @@
 # Toastify 
 
 JavaScript Library for Creating simple toast's. 
-With very minimal configurations you can create a good toast alerts.
+With very minimal configurations you can create a good toast alerts. [Visit Example Page](https://suraj-repositories.github.io/JS-Toastify/)
 
 ## Images
 <div align="center">
